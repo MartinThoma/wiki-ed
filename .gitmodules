@@ -4,3 +4,6 @@
 [submodule "Content/GeoTopo"]
 	path = Content/GeoTopo
 	url = https://github.com/MartinThoma/GeoTopo.git
+[submodule "Content/NeuralNets"]
+	path = Content/NeuralNets
+	url = https://github.com/Marvin182/NeuralNets

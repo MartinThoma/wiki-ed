@@ -1,3 +1,6 @@
 [submodule "Content/Funktionalanalysis-WS2015"]
 	path = Content/Funktionalanalysis-WS2015
 	url = https://github.com/MBelica/Funktionalanalysis-WS2015.git
+[submodule "Content/GeoTopo"]
+	path = Content/GeoTopo
+	url = https://github.com/MartinThoma/GeoTopo.git

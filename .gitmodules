@@ -7,3 +7,12 @@
 [submodule "Content/NeuralNets"]
 	path = Content/NeuralNets
 	url = https://github.com/Marvin182/NeuralNets
+[submodule "Content/Economics-and-Behaviour-WS2015"]
+	path = Content/Economics-and-Behaviour-WS2015
+	url = https://github.com/MBelica/Economics-and-Behaviour-WS2015.git
+[submodule "Content/Algorithmen-I"]
+	path = Content/Algorithmen-I
+	url = https://github.com/sxleixer/Algorithmen-I.git
+[submodule "Content/kit-tut-prog"]
+	path = Content/kit-tut-prog
+	url = https://github.com/daniel-j-h/kit-tut-prog

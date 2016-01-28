@@ -16,3 +16,6 @@
 [submodule "Content/kit-tut-prog"]
 	path = Content/kit-tut-prog
 	url = https://github.com/daniel-j-h/kit-tut-prog
+[submodule "Content/Moderne-Physik"]
+	path = Content/Moderne-Physik
+	url = https://github.com/parttimenerd/Moderne-Physik.git

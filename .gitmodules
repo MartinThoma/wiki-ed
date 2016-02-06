@@ -2,7 +2,7 @@
 	path = Content/Funktionalanalysis-WS2015
 	url = https://github.com/MBelica/Funktionalanalysis-WS2015.git
 [submodule "Content/GeoTopo"]
-	path = Content/GeoTopo
+	path = Content/GeoTopo-Herrlich/GeoTopo
 	url = https://github.com/MartinThoma/GeoTopo.git
 [submodule "Content/NeuralNets"]
 	path = Content/NeuralNets

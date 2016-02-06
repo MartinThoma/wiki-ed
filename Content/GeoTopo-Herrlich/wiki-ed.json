@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "authors": [{
+    "natural_name": "Martin Thoma",
+    "orcid": "http://orcid.org/0000-0002-6517-1690",
+    "email": "info@martin-thoma.de"
+  }],
+  "description": {
+    "short": {
+      "en": "A script for geometry and topology.",
+      "de": "Ein Skript für Geometrie und Topologie."
+    },
+    "long": {
+      "en": "A script for geometry and topology which introduces the basic terms. It is meant to be read by math students who already have about 1 year of training."
+    }
+  },
+  "license": "CC BY-SA 3.0",
+  "language": "de",
+  "dependencies": [
+    "Menge",
+    "Tupel",
+    "Vereinigung (Menge)",
+    "Schnitt (Menge)"
+  ],
+  "introduces": [
+    "Topologischer Raum",
+    "Umgebung",
+    "abgeschlossene Hülle",
+    "Rand",
+    "Mannigfaltigkeit",
+    "Überdeckung",
+    "Homöomorphismus"
+  ]
+}

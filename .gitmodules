@@ -19,3 +19,6 @@
 [submodule "Content/Moderne-Physik"]
 	path = Content/Moderne-Physik
 	url = https://github.com/parttimenerd/Moderne-Physik.git
+[submodule "Content/Programmieren-sschaef/kit-tut"]
+	path = Content/Programmieren-sschaef/kit-tut
+	url = https://github.com/sschaef/kit-tut.git

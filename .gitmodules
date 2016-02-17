@@ -22,3 +22,6 @@
 [submodule "Content/Programmieren-sschaef/kit-tut"]
 	path = Content/Programmieren-sschaef/kit-tut
 	url = https://github.com/sschaef/kit-tut.git
+[submodule "Content/chemistry-school-mthoma/chemistry"]
+	path = Content/chemistry-school-mthoma/chemistry
+	url = git@github.com:MartinThoma/chemistry.git

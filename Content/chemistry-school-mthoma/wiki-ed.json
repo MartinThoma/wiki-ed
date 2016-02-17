@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "authors": [{
+    "natural_name": "Martin Thoma",
+    "orcid": "http://orcid.org/0000-0002-6517-1690",
+    "email": "info@martin-thoma.de"
+  }],
+  "description": {
+    "short": {
+      "en": "A website for students who just begin to learn about chemistry.",
+      "de": "Eine Website für Schüler aller Altersklassen über Chemie."
+    },
+    "long": {
+      "en": "This website gives an introduction to chemistry. It is oriented on topics of the German (Bavarian) school system.",
+      "de": "Diese Website gibt eine Einführung in die Chemie für Schüler. Die Inhalte sind an den Inhalten des Bayrischen Schulsystems orientiert."
+    }
+  },
+  "license": "CC BY-SA 4.0",
+  "language": "de",
+  "dependencies": [],
+  "introduces": [
+    "Salz",
+    "Komplex",
+    "Säure",
+    "Lauge",
+    "Base",
+    "Gemenge",
+    "Legierung",
+    "Lösung",
+    "Gemisch",
+    "Suspension"
+  ]
+}

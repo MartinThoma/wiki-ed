@@ -31,3 +31,6 @@
 [submodule "Content/tobiasschulz-swt/karlsruhe-kit-swt"]
 	path = Content/tobiasschulz-swt/karlsruhe-kit-swt
 	url = https://github.com/tobiasschulz/karlsruhe-kit-swt.git
+[submodule "Content/leonhandreke-sicherheit/sicherheit-uni-karlsruhe-ss12"]
+	path = Content/leonhandreke-sicherheit/sicherheit-uni-karlsruhe-ss12
+	url = https://github.com/leonhandreke/sicherheit-uni-karlsruhe-ss12.git

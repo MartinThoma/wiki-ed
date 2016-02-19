@@ -37,3 +37,21 @@
 [submodule "Content/sxleixer-algorithmen-i/Algorithmen-I"]
 	path = Content/sxleixer-algorithmen-i/Algorithmen-I
 	url = https://github.com/sxleixer/Algorithmen-I.git
+[submodule "Content/algomaus-Algorithmen1-SS2013/Algorithmen1-SS2013"]
+	path = Content/algomaus-Algorithmen1-SS2013/Algorithmen1-SS2013
+	url = https://github.com/algomaus/Algorithmen1-SS2013.git
+[submodule "Content/algomaus-LineareAlgebra/LineareAlgebra"]
+	path = Content/algomaus-LineareAlgebra/LineareAlgebra
+	url = https://github.com/algomaus/LineareAlgebra.git
+[submodule "Content/algomaus-TGI-Folien-WS-2011-12/TGI-Folien-WS-2011-12"]
+	path = Content/algomaus-TGI-Folien-WS-2011-12/TGI-Folien-WS-2011-12
+	url = https://github.com/algomaus/TGI-Folien-WS-2011-12.git
+[submodule "Content/algomaus-EinfStochastik/EinfStochastik"]
+	path = Content/algomaus-EinfStochastik/EinfStochastik
+	url = https://github.com/algomaus/EinfStochastik.git
+[submodule "Content/algomaus-GeoTopoUebung/GeoTopoUebung"]
+	path = Content/algomaus-GeoTopoUebung/GeoTopoUebung
+	url = https://github.com/algomaus/GeoTopoUebung.git
+[submodule "Content/algomaus-Funktheo/Funktheo"]
+	path = Content/algomaus-Funktheo/Funktheo
+	url = https://github.com/algomaus/Funktheo

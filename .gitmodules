@@ -34,3 +34,6 @@
 [submodule "Content/leonhandreke-sicherheit/sicherheit-uni-karlsruhe-ss12"]
 	path = Content/leonhandreke-sicherheit/sicherheit-uni-karlsruhe-ss12
 	url = https://github.com/leonhandreke/sicherheit-uni-karlsruhe-ss12.git
+[submodule "Content/sxleixer-algorithmen-i/Algorithmen-I"]
+	path = Content/sxleixer-algorithmen-i/Algorithmen-I
+	url = https://github.com/sxleixer/Algorithmen-I.git

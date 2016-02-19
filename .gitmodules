@@ -25,3 +25,9 @@
 [submodule "Content/chemistry-school-mthoma/chemistry"]
 	path = Content/chemistry-school-mthoma/chemistry
 	url = git@github.com:MartinThoma/chemistry.git
+[submodule "Content/dlindner-software-engineering/vorlesung-se2-dhbw"]
+	path = Content/dlindner-software-engineering/vorlesung-se2-dhbw
+	url = https://github.com/dlindner/vorlesung-se2-dhbw.git
+[submodule "Content/tobiasschulz-swt/karlsruhe-kit-swt"]
+	path = Content/tobiasschulz-swt/karlsruhe-kit-swt
+	url = https://github.com/tobiasschulz/karlsruhe-kit-swt.git

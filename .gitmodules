@@ -55,3 +55,6 @@
 [submodule "Content/algomaus-Funktheo/Funktheo"]
 	path = Content/algomaus-Funktheo/Funktheo
 	url = https://github.com/algomaus/Funktheo
+[submodule "Content/artificial-intelligence-mmaier"]
+	path = Content/artificial-intelligence-mmaier
+	url = git@github.com:MartinThoma/artificial-intelligence-mmaier.git

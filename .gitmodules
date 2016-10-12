@@ -64,3 +64,6 @@
 [submodule "Content/Lineare-Algebra/Zusammenfassung-LA2"]
 	path = Content/Lineare-Algebra/Zusammenfassung-LA2
 	url = https://github.com/Jintzo/Zusammenfassung-LA2
+[submodule "Content/Databases/DBS"]
+	path = Content/Databases/DBS
+	url = https://github.com/Jintzo/DBS

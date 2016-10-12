@@ -58,3 +58,9 @@
 [submodule "Content/artificial-intelligence-mmaier"]
 	path = Content/artificial-intelligence-mmaier
 	url = git@github.com:MartinThoma/artificial-intelligence-mmaier.git
+[submodule "Content/Lineare-Algebra/Zusammenfassung-LA1"]
+	path = Content/Lineare-Algebra/Zusammenfassung-LA1
+	url = git@github.com:Jintzo/Zusammenfassung-LA1.git
+[submodule "Content/Lineare-Algebra/Zusammenfassung-LA2"]
+	path = Content/Lineare-Algebra/Zusammenfassung-LA2
+	url = https://github.com/Jintzo/Zusammenfassung-LA2

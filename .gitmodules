@@ -67,3 +67,6 @@
 [submodule "Content/Databases/DBS"]
 	path = Content/Databases/DBS
 	url = https://github.com/Jintzo/DBS
+[submodule "Content/algomaus-Echtzeitsysteme/Echtzeitsysteme-Zusammenfassung"]
+	path = Content/algomaus-Echtzeitsysteme/Echtzeitsysteme-Zusammenfassung
+	url = git@github.com:algomaus/Echtzeitsysteme-Zusammenfassung.git
